@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.movie-list-title-label {
+  white-space: pre-wrap;
+  font-size: 17px;
+}
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.detail-title {
+  text-align: left;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.detail-title span {
+  text-align: left;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.input-search {
+  color: white !important;
+}
